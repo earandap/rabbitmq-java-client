@@ -1,0 +1,7 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Body>
+        <p:greet xmlns:p="http://service.earandap.org">
+            <in>IBM</in>
+        </p:greet>
+    </soapenv:Body>
+</soapenv:Envelope>
